@@ -1,0 +1,6 @@
+beautifulsoup4
+lxml
+openai-whisper
+requests
+yt_dlp
+
